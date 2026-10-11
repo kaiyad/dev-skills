@@ -1,0 +1,7 @@
+{
+  "name": "dev-skills",
+  "version": "0.1.0",
+  "description": "A tight, composable set of software-development skills for AI agents: design, implement, review, debug, test, refactor, prototype, document, spec, explore, PR, handoff, and incident response. Python-oriented, enforcement-aware, context-budgeted.",
+  "author": { "name": "dev-skills" },
+  "skills": "./skills"
+}
